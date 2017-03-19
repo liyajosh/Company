@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="t1">"130 Royall Street
+Canton, MA 02021 USA
+Corporate Phone Number: 1-781-737-3000
+Fax Number: 1-102-655-5049
+Customer Service Number: 1-800-859-5339
+Online Orders: 1-800-398-8543
+</string>
+    <string name="mail">Email Address: support@baskinrobbins.com</string>
+</resources>
